@@ -23,5 +23,3 @@ You can use the following commands to the tasks:
 python PAN.py --gpu_id n --source c --target p
 
 
-## Contact
-If you have any problem about our code, feel free to contact thusinan@foxmail.com.
